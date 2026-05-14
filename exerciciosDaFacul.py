@@ -92,7 +92,7 @@ media = soma / 10
 print(f'Soma das notas = {soma} - media - {media}')
 
 
-# Lista while 2.1 ver. 1 (Quantidade de notas)
+# Lista while 2.1 ver. 1 (Quantidade de notas) 
 soma = 0
 conta = 's'
 qntdDnotas = 0
